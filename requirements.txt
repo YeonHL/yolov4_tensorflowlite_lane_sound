@@ -8,3 +8,4 @@ matplotlib
 pillow
 scipy
 sounddevice
+pyshine
