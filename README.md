@@ -75,7 +75,7 @@ python convert_tflite.py --weights ./checkpoints/yolov4-tiny-416 --output ./chec
 
 ```python
 # Run yolov4-tiny object tracker
-python object_tracker.py --weights ./checkpoints/yolov4-tiny-416.tflite --model yolov4 --video ./data/video/test_sample.mp4 --output ./outputs/pothole.avi --tiny --info
+python object_tracker.py --weights ./checkpoints/yolov4-tiny-416.tflite --model yolov4 --video ./data/video/test_sample.mp4 --output ./outputs/.avi --tiny --info
 ```
 
 
