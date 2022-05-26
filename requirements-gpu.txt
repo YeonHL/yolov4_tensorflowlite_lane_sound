@@ -6,6 +6,3 @@ absl-py
 matplotlib
 easydict
 pillow
-scipy
-sounddevice
-pyshine
