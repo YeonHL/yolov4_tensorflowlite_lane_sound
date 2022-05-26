@@ -75,7 +75,13 @@ Video file for test (Move this video into the 'data/video' folder of this reposi
 
 https://drive.google.com/file/d/1X84PFatOcdlVXvRG0ngw8oAZKxj3GsEk/view?usp=sharing
 
+Before running the tracker, install library.
 
+```python
+pip install scipy
+pip install pyshine
+pip install sounddevice
+```
 
 ```python
 # Run yolov4-tiny object tracker
