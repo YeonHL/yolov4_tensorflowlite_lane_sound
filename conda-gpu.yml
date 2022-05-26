@@ -15,6 +15,3 @@ dependencies:
     - absl-py
     - easydict
     - pillow
-    - scipy
-    - sounddevice
-    - pyshine
