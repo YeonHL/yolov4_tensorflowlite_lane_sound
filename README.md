@@ -78,6 +78,7 @@ https://drive.google.com/file/d/1X84PFatOcdlVXvRG0ngw8oAZKxj3GsEk/view?usp=shari
 Before running the tracker, install library.
 
 ```python
+# Install library
 pip install scipy
 pip install pyshine
 pip install sounddevice
